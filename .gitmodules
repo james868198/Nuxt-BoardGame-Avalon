@@ -1,9 +1,9 @@
-[submodule "client"]
+[submodule "nuxt-Avalon-client"]
     path = client
     url = https://github.com/james868198/nuxt-Avalon-client.git
     branch = master
 
-[submodule "server"]
-    path = server
+[submodule "nuxt-Avalon-GameServer"]
+    path = gameServer
     url = https://github.com/james868198/nuxt-Avalon-GameServer.git
     branch = master
